@@ -8,7 +8,7 @@
                 
 ----
 ### Description
-ercadolibre is the largest ecommerce in Latin America, this scraper is an example of how you can use selenium to find the most relevant articles from a search. The scraper creates a csv file to have at hand the data of the 50 most relevant xbox products in Bogota D.C.
+Mercadolibre is the largest ecommerce in Latin America, this scraper is an example of how you can use selenium to find the most relevant articles from a search. The scraper creates a csv file to have at hand the data of the 50 most relevant xbox products in Bogota D.C.
 
 ### Requirement
 <code> git clone https://github.com/julianramirezch/mercadolibre_automation.git </code>
